@@ -1,0 +1,5 @@
+- Create a project that increases team productivity by leveraging AI fully through collaboration.
+- (Phase 2 I think) Create a unified workspace where a team can collaborate on the same AI by editing prompts and firing off processes.
+- Create a project that minimizes token spend in an enterprize setup.
+- Create a project that can minimize / sleep and manage terminals as context cascades from one agent to another.
+- Create a context visualizer that displays how the context was created and how it flows down to the end.
